@@ -6,4 +6,4 @@ Special thanks and credits to the authors of components used in the project:
 3) Daedalus: https://github.com/NeuralSec/Daedalus-attack
 4) Feature Space attack: https://github.com/qiulingxu/FeatureSpaceAttack
 5) Patch atack: https://github.com/UMBCvision/Contextual-Adversarial-Patches
-6) Clean inference: https://github.com/grispeut/Feature-Alignment
+6) Feature alignment defence: https://github.com/grispeut/Feature-Alignment
