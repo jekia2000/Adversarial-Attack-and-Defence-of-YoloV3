@@ -13,3 +13,5 @@ As the space of a Github free account is limited, here are the weights/folders y
 2) yolov3 weights: https://kuleuven-my.sharepoint.com/:u:/g/personal/aleksa_jelaca_student_kuleuven_be/EaLnwqrsxvJChCyvk8blrFoB5x1TGp03RPNRCu97Ph_aSQ?e=DVEShs go into the folder ./yolov3
 3) folder "converted weights": https://kuleuven-my.sharepoint.com/:f:/g/personal/aleksa_jelaca_student_kuleuven_be/EuQR_RC7pFJOj-i5i8Xz0hsBUafu0REvgJBvlWBYGEqZKA?e=I8G1gS  goes into ./yolov3/PFSA/
 4) folder "runs": https://kuleuven-my.sharepoint.com/:f:/g/personal/aleksa_jelaca_student_kuleuven_be/Emo4HMciZbNDu1U78DOooH4BoXNSpJiDdZxz_J6ATCUV0g?e=9LZZMD goes into ./yolov3
+5) folder "public_directorium": https://kuleuven-my.sharepoint.com/:f:/g/personal/aleksa_jelaca_student_kuleuven_be/EuDLHFKfV1NBjAtWO51fXKoBzyDC75hh8nhaC1fDU5YeFA?e=4fLZZ1 goes into ./
+
