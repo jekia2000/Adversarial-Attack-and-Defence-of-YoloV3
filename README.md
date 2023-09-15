@@ -14,4 +14,6 @@ As the space of a Github free account is limited, here are the weights/folders y
 3) folder "converted weights": https://kuleuven-my.sharepoint.com/:f:/g/personal/aleksa_jelaca_student_kuleuven_be/EuQR_RC7pFJOj-i5i8Xz0hsBUafu0REvgJBvlWBYGEqZKA?e=I8G1gS  goes into ./yolov3/PFSA/
 4) folder "runs": https://kuleuven-my.sharepoint.com/:f:/g/personal/aleksa_jelaca_student_kuleuven_be/Emo4HMciZbNDu1U78DOooH4BoXNSpJiDdZxz_J6ATCUV0g?e=9LZZMD goes into ./yolov3
 5) folder "public_directorium": https://kuleuven-my.sharepoint.com/:f:/g/personal/aleksa_jelaca_student_kuleuven_be/EuDLHFKfV1NBjAtWO51fXKoBzyDC75hh8nhaC1fDU5YeFA?e=4fLZZ1 goes into ./
+6) "__init__.py" : https://kuleuven-my.sharepoint.com/:u:/g/personal/aleksa_jelaca_student_kuleuven_be/EeFk6b-8EhlGhQEfcIi88MwB2s-fjxBqMkdeOjR1gII2Kw?e=FSifmg goes into ./
+7) "download_test5000.py": https://kuleuven-my.sharepoint.com/:u:/g/personal/aleksa_jelaca_student_kuleuven_be/EUqWe_bqkHdBkxpDv426cY0BUzndAWt10oBl795KBhFN_g?e=4skIfo goes into ./ but it is optional, as I have already provided with test images in the "public_directorium"
 
